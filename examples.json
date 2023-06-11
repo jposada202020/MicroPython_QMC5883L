@@ -1,0 +1,11 @@
+{
+  "urls": [
+    ["micropython_qmc5883l/examples/qmc5883l_advanced_settings.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_advanced_settings.py"],
+    ["micropython_qmc5883l/examples/qmc5883l_magnetic_compass.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_magnetic_compass.py"],
+    ["micropython_qmc5883l/examples/qmc5883l_data_rate.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_data_rate.py"],
+    ["micropython_qmc5883l/examples/qmc5883l_oversample.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_oversample.py"],
+    ["micropython_qmc5883l/examples/qmc5883l_field_range.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_field_range.py"],
+    ["micropython_qmc5883l/examples/qmc5883l_simpletest.py", "github:jposada202020/MicroPython_QMC5883L/examples/qmc5883l_simpletest.py"]
+  ],
+  "version": "0.1"
+}

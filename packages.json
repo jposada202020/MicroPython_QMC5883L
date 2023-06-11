@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["micropython_qmc5883l/qmc5883l.py", "github:jposada202020/MicroPython_QMC5883L/micropython_qmc5883l/qmc5883l.py"],
+    ["micropython_qmc5883l/i2c_helpers.py", "github:jposada202020/MicroPython_QMC5883L/micropython_qmc5883l/i2c_helpers.py"],
+    ["micropython_qmc5883l/__init__.py", "github:jposada202020/MicroPython_QMC5883L/micropython_qmc5883l/__init__.py"]
+  ],
+  "version": "0.1"
+}

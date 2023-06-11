@@ -7,6 +7,7 @@ https://github.com/adafruit/Adafruit_CircuitPython_LSM303DLH_Mag/blob/main/examp
 """
 
 import time
+from math import atan2, degrees
 from machine import Pin, I2C
 from micropython_qmc5883l import qmc5883l
 

@@ -3,7 +3,6 @@
 # SPDX-License-Identifier: MIT
 # pylint: disable=protected-access
 
-import time
 from machine import Pin, I2C
 from micropython_qmc5883l import qmc5883l
 

@@ -69,7 +69,7 @@ class QMC5883L:
     .. code-block:: python
 
         from machine import Pin, I2C
-        import qmc5883l
+        from micropython_qmc5883l import qmc5883l
 
     Once this is done you can define your `machine.I2C` object and define your sensor object
 

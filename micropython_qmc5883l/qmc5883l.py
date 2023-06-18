@@ -75,7 +75,7 @@ class QMC5883L:
 
     .. code-block:: python
 
-        i2c = I2C(sda=Pin28), scl=Pin(3))
+        i2c = I2C(1, sda=Pin(2), scl=Pin(3))
         qmc5883l = qmc5883l.QMC5883L(i2c)
 
     Now you have access to the attributes

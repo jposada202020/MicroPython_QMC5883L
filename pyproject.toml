@@ -42,7 +42,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["qmc5883l"]
+packages = ["micropython_qmc5883l"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}

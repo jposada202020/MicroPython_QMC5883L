@@ -28,5 +28,5 @@ def get_heading(sensor):
 
 
 while True:
-    print("heading: {:.2f} degrees".format(get_heading(qmc)))
+    print(f"heading: {get_heading(qmc):.2f} degrees")
     time.sleep(0.2)

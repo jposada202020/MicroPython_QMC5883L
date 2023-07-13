@@ -25,9 +25,7 @@ keywords = [
     "acceleration",
     "heading",
     "driver",
-    "sensor",
     "gravity",
-    "micropython",
     "accelerometer",
 ]
 license = {text = "MIT"}

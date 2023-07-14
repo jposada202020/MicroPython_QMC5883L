@@ -260,7 +260,6 @@ class QMC5883L:
 
     @output_data_rate.setter
     def output_data_rate(self, value: int) -> None:
-
         if value not in data_rate_values:
             raise ValueError("Value must be a valid data rate setting")
 
